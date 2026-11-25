@@ -1,6 +1,6 @@
 # Wiz Cloud Identity Check Node
 
-A custom authentication node for PingAM and PingOne Advanced Identity Cloud (PingAIC) that checks whether the authenticating user exists as an identity in the Wiz platform, routing the journey based on the result.
+A custom authentication node for PingAM that checks whether the authenticating user exists as an identity in the Wiz platform, routing the journey based on the result.
 
 ## Overview
 
